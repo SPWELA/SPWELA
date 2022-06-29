@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @SPWELA
-- 👀 I’m interested in ...
-- 
-- 🌱 I’m currently learning Software engineering THrough the ALX course 
-
+I’m an Industrial Engineer who is an aspiring full stack developer
+ 
+I’m currently learning Software engineering Through the ALX Software Engineering course 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me  ...
 
 <!---
 SPWELA/SPWELA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
