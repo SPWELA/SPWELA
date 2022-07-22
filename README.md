@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SPWELA
+Hi, I’m @SPWELA
 I’m an Industrial Engineer who is an aspiring full stack developer
  
 I’m currently learning Software engineering Through the ALX Software Engineering course 
